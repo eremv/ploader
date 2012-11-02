@@ -1,0 +1,25 @@
+{
+    "name": "vk-dowloader"
+  , "version": "0.0.1"
+  , "private": true
+  , "dependencies": {
+      "coffee-script": "*"
+    , "underscore":"*"
+    , "superagent":"0.4.x"
+    , "tracer":"0.5.x"
+    , "async":"0.1.x"
+    , "http-get":"0.4.2"
+    , "django-urlify":"*"
+    , "request":"*"
+    , "cookie":"0.0.4"
+    , "sqlite3":"2.1.5"
+    , "iconv-lite":"0.2.5"
+    , "cheerio":"0.10.1"
+  }
+  , "devDependencies": {}
+  , "main":"index"
+  , "engines": {
+      "node": "0.8.10"
+    , "npm":  "1.1.62"
+  }
+}
